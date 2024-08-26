@@ -8,7 +8,7 @@
 .container {
   width: 100%;
   min-height: 100vh;
-  background: linear-gradient(135deg, #153677, #4e0882);
+  background: linear-gradient(135deg, #bdbb29, #ff5945);
   padding: 10px;
 }
 
@@ -38,7 +38,7 @@
   align-items: center;
   justify-content: space-between;
   background: #edeef0;
-  border-radius: 30px;
+  border-radius: 15px;
   padding-left: 20px;
   margin-bottom: 25px;
 }
@@ -60,7 +60,7 @@ button {
   color: #fff;
   font-size: 16px;
   cursor: pointer;
-  border-radius: 40px;
+  border-radius: 15px;
 }
 
 ul li {
@@ -81,7 +81,7 @@ ul li::before {
   background-image: url(images/unchecked.png);
   background-size: cover;
   background-position: center;
-  top: 12px;
+  top: 7px;
   left: 8px;
 }
 
